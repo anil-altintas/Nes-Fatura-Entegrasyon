@@ -1,0 +1,41 @@
+# Composer
+/vendor/
+composer.lock
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Logs
+/logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Test coverage
+/coverage/
+phpunit.xml
+
+# Backup files
+*.bak
+*.backup
